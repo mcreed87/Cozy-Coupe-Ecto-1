@@ -30,7 +30,7 @@ The car features lights, the theme song from the 80's cartoon, and the siren fro
 # Getting Started
 
 ## Prerequisites
-Knowledge of reading wiring diagrams and circuit building
+Knowledge of reading wiring diagrams and circuit building. Access to a computer and a printer.
 
 ## Tools
 * Computer
