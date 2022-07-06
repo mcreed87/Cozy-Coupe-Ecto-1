@@ -74,7 +74,7 @@ Knowledge of reading wiring diagrams and circuit building. Access to a computer 
 * 22 Gage Wire - https://www.amazon.com/gp/product/B088KQFHV7/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
 
 ## Files
-* Arduino Code
+* See attached files
 
 ## Assembly
 
