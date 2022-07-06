@@ -84,7 +84,7 @@ Knowledge of reading wiring diagrams and circuit building. Access to a computer 
 * Bend the electrical conduit and do a test fit. (Use a heat gun or hair dryer to bend it to fit the contour of the car.)
 * To prep for painting, scuff all smooth surfaces with high grit sandpaper and wash the parts clean to remove all dust and oils.
 * Paint all parts in a well ventilated area. Several light coats are required, and make sure to let all parts dry before applying the next coat.
-  * I found that the spray paint didn't work well for the body of the car and the door. I painted all of it again in 3 coats of acrylic paint (Pro-Tip: Use a large brush.) to make sure it was durable. Then I went over it all with 2 clear coats.
+  * I found that the spray paint didn't work well for the body of the car and the door. I painted all of it again in 3 coats of acrylic paint to make sure it was durable. (Pro-Tip: Use a large brush.) Then I went over it all with 2 clear coats.
 * After painting, run all the wires and install the roof rack.
 * Test all the wiring and electronics.
 * Add all of the decals.
