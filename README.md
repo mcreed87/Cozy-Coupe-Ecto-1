@@ -39,6 +39,7 @@ Knowledge of reading wiring diagrams and circuit building. Access to a computer 
 * Paint Brushes
 * Pencil or Marker
 * Printer
+* Sand Paper
 * Screw Drivers
 * Solder
 * Soldering Iron
@@ -49,25 +50,28 @@ Knowledge of reading wiring diagrams and circuit building. Access to a computer 
 * **Lot of Patients!**
 
 ## Parts
-* Acrylic Paint
-* Audio Amplifier
-* Blue Electrical Conduit
-* Buck Converters
+* Acrylic Paint - Satin White, Satin Red
+* Arduino Nano - https://www.amazon.com/gp/product/B0713XK923/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1
+* Audio Amplifier - https://www.amazon.com/gp/product/B00PY2YSI4/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+* Blue Electrical Conduit - https://www.menards.com/main/electrical/conduit-conduit-fittings-raceways/conduit/ent-conduit/12008-upc/p-1444444956032-c-6423.htm?tid=-7193055694956213127&ipos=19
+* Bread Boards - https://www.amazon.com/gp/product/B07DL13RZH/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1
+* Buck Converters - https://www.amazon.com/gp/product/B08977C9YM/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
 * Cozy Coupe Car (The DIY version is already white)
 * Electrical Tape
-* Lights
+* Lights X2 - https://www.amazon.com/gp/product/B094QJ3S38/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 * Metal Clamps
-* Project Box
-* Rechargable Battery Pack
+* Project Box - https://www.amazon.com/gp/product/B06XSQZ5M6/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+* Rechargable Battery Pack - https://www.amazon.com/gp/product/B01M7Z9Z1N/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
 * Resistors
 * Screws
 * Small Speaker
-* Spray Paint
-* Sticker Paper
-* Switches
-* Wire Connectors
-* Wire Ties
-* 22 Gage Wire
+* Sound Board - https://www.amazon.com/gp/product/B00Q3U42DM/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+* Spray Paint - Rust-Oleum: Gloss White, Gloss Yellow, Gloss Red, Gloss Clear, Metalic Silver 
+* Sticker Paper - https://www.amazon.com/gp/product/B08H1SL9VX/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
+* Switches - https://www.amazon.com/gp/product/B07T1JG6BD/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+* Wire Connectors - https://www.amazon.com/TICONN-Disconnect-Connectors-Electrical-Assortment/dp/B08BZ8BLJN/ref=pd_bxgy_img_sccl_1/141-8253472-5756613?pd_rd_w=XBbuj&content-id=amzn1.sym.7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_p=7757a8b5-874e-4a67-9d85-54ed32f01737&pf_rd_r=MYKXKZ4GT0P0RAXCSNE6&pd_rd_wg=E5n4I&pd_rd_r=bcabbdea-7133-45ee-bcf1-fad15304969e&pd_rd_i=B08BZ8BLJN&psc=1
+* Wire Ties - https://www.amazon.com/dp/B0777LWBD9?psc=1&ref=ppx_yo2ov_dt_b_product_details
+* 22 Gage Wire - https://www.amazon.com/gp/product/B088KQFHV7/ref=ppx_yo_dt_b_asin_title_o04_s00?ie=UTF8&psc=1
 
 ## Files
 * Arduino Code
