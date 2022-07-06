@@ -24,14 +24,9 @@ Open-source version of a Cozy Coupe Ecto 1 from Ghostbusters.
 
 ## About the Project
 
-> Add more images and a video
+This Ecto-1 Cozy Coupe was a Christmas present for my 1 year old son. He is obsessed with Ghostbusters and loves the theme song, the 80's cartoons, and most recently, the new Afterlife movie. Ghost was one of his first words, and any time he needs it the theme song calms him right down. His favorite characters are Stay Puft and Egon. Since seeing the new movie, he is also obsessed with the Mini Pufts, or as he calls them, "puffs". This is just the first in what I believe will be a long line of Ghostbusters projects for him.
 
-Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
-AngularJS-powered HTML5 Markdown editor.
-
-- Type some Markdown on the left
-- See HTML in the right
-- ✨Magic ✨
+The car features lights, the theme song from the 80's cartoon, and the siren from Ecto-1 in the original movie. There are 3 switches on the dash to control what is active. The electronics for the car run off a rechargeable battery pack. 
 
 # Getting Started
 
