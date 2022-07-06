@@ -19,7 +19,6 @@ Open-source version of a Cozy Coupe Ecto 1 from Ghostbusters.
 * [Disclaimer](#disclaimer)
 * [License](#license)
 * [Contact](#contact)
-* [Acknowledgements](#acknowledgements)
 * [Buy Me a Coffee](#buy-me-a-coffee)
 
 ## About the Project
@@ -91,7 +90,9 @@ Matt Reed - @mcreed87
 
 Project Link: https://github.com/mcreed87/Cozy-Coupe-Ecto-1
 
-## Acknowledgements
-
 ## Buy Me a Coffee
+
+[Donate: Cozy Coupe Ecto-1](https://www.paypal.com/donate/?business=LWE3487KR8HR6&no_recurring=0&item_name=Cozy+Coupe+Ecto-1&currency_code=USD)
+
+![QR Code](https://user-images.githubusercontent.com/14786511/177629763-1255bc82-a511-4e49-984c-337e99d5b142.png)
 
