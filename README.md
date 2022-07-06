@@ -35,40 +35,40 @@ Knowledge of reading wiring diagrams and circuit building
 
 ## Tools
 * Computer
-* Printer
-* Screw Driver
-* Wire Cutters
-* Soldering Iron
-* Solder
-* Well ventilated area for painting
-* Paint Brushes
-* Wire Crimper
-* Step Bit
 * Drill Bits
-* Pencil or Marker
 * Masking Tape
+* Paint Brushes
+* Pencil or Marker
+* Printer
+* Screw Drivers
+* Solder
+* Soldering Iron
+* Step Bit
+* Well ventilated area for painting
+* Wire Crimpers
+* Wire Cutters
 * **Lot of Patients!**
 
 ## Parts
-* Cozy Coupe Car (The DIY version is already white)
-* Sticker Paper
 * Acrylic Paint
-* Spray Paint
-* 22 Gage Wire
+* Audio Amplifier
+* Blue Electrical Conduit
+* Buck Converters
+* Cozy Coupe Car (The DIY version is already white)
 * Electrical Tape
 * Lights
-* Wire Ties
-* Switches
-* Speaker
-* Connectors
-* Wiring box
-* Buck converters
-* Amplifier
-* Resistors
-* Battery pack
-* Screws
 * Metal Clamps
-* Blue Electrical Conduit
+* Project Box
+* Rechargable Battery Pack
+* Resistors
+* Screws
+* Small Speaker
+* Spray Paint
+* Sticker Paper
+* Switches
+* Wire Connectors
+* Wire Ties
+* 22 Gage Wire
 
 ## Files
 * Arduino Code
