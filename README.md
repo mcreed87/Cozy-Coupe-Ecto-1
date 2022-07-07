@@ -65,8 +65,8 @@ Knowledge of reading wiring diagrams and circuit building. Access to a computer 
 * Rechargable Battery Pack - https://www.amazon.com/gp/product/B01M7Z9Z1N/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
 * Resistors
 * Screws
-* Small Speaker
 * Sound Board - https://www.amazon.com/gp/product/B00Q3U42DM/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+* Speaker 8 Ohm - https://www.amazon.com/uxcell-Diameter-Internal-Speaker-Loudspeaker/dp/B019WBCGRW/ref=sr_1_3?keywords=50mm+speaker&qid=1657156047&sprefix=50mm+spe%2Caps%2C89&sr=8-3
 * Spray Paint - Rust-Oleum: Gloss White, Gloss Yellow, Gloss Red, Gloss Clear, Metalic Silver 
 * Sticker Paper - https://www.amazon.com/gp/product/B08H1SL9VX/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 * Switches - https://www.amazon.com/gp/product/B07T1JG6BD/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
