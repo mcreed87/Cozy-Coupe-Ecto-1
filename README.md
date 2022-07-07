@@ -56,8 +56,8 @@ Knowledge of reading wiring diagrams and circuit building. Access to a computer 
 * Blue Electrical Conduit - https://www.menards.com/main/electrical/conduit-conduit-fittings-raceways/conduit/ent-conduit/12008-upc/p-1444444956032-c-6423.htm?tid=-7193055694956213127&ipos=19
 * Bread Boards - https://www.amazon.com/gp/product/B07DL13RZH/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1
 * Buck Converters - https://www.amazon.com/gp/product/B08977C9YM/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
-* Cozy Coupe Car - (There are several versions available; make sure to purchase the one that is linked if you want the decals to fit)
-* Extra Cozy Coupe Floor Panel - (Only needed if your child can't yet reach the ground and will be using the one that comes with the Cozy Coupe Car)
+* Cozy Coupe Car - (There are several versions available; make sure to purchase the one that is linked if you want the decals to fit) - https://www.amazon.com/Little-Tikes-642302M-Cozy-Coupe/dp/B01LY451EC/ref=sr_1_3?keywords=cozy+coupe&qid=1657155669&sprefix=cozy+co%2Caps%2C101&sr=8-3
+* Extra Cozy Coupe Floor Panel - (Only needed if your child can't yet reach the ground and will be using the one that comes with the Cozy Coupe Car) - https://parts.littletikes.com/products/cozy-coupe
 * Electrical Tape
 * Lights x2 - https://www.amazon.com/gp/product/B094QJ3S38/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 * Metal Clamps
