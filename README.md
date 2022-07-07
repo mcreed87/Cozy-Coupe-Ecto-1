@@ -23,9 +23,9 @@ Open-source version of a Cozy Coupe Ecto 1 from Ghostbusters.
 
 ## About the Project
 
-This Ecto-1 Cozy Coupe was a Christmas present for my 1 year old son. He is obsessed with Ghostbusters and loves the theme song, the 80's cartoons, and most recently, the new Afterlife movie. Ghost was one of his first words, and any time he needs it the theme song calms him right down. His favorite characters are Stay Puft and Egon. Since seeing the new movie, he is also obsessed with the Mini Pufts, or as he calls them, "puffs". This is just the first in what I believe will be a long line of Ghostbusters projects for him.
+This Ecto-1 Cozy Coupe was a Christmas present for my 1-year-old son. He is obsessed with Ghostbusters and loves the theme song, the 80's cartoons, and most recently, the new Afterlife movie. "Ghost" was one of his first words, and any tantrum can easily be solved by playing the theme song. His favorite characters are Stay Puft and Egon. Since seeing the new movie, he is also obsessed with the Mini Pufts, or as he calls them, "Puffs". This Ecto-1 Cozy Coupe is the first in what I believe will be a long line of Ghostbusters projects for him.
 
-The car features lights, the theme song from the 80's cartoon, and the siren from Ecto-1 in the original movie. There are 3 switches on the dash to control what is active. The electronics for the car run off a rechargeable battery pack. 
+The car features lights, the theme song from the 80's cartoon, and the siren from the original movie's Ecto-1. There are 3 switches on the dash to control what sound is active. The electronics for the car run off a rechargeable battery pack. 
 
 # Getting Started
 
@@ -44,10 +44,10 @@ Knowledge of reading wiring diagrams and circuit building. Access to a computer 
 * Solder
 * Soldering Iron
 * Step Bit
-* Well ventilated area for painting
+* Well-ventilated area for painting
 * Wire Crimpers
 * Wire Cutters
-* **Lot of Patients!**
+* **Lot of Patience!**
 
 ## Parts
 * Acrylic Paint - Satin White, Satin Red
@@ -56,9 +56,10 @@ Knowledge of reading wiring diagrams and circuit building. Access to a computer 
 * Blue Electrical Conduit - https://www.menards.com/main/electrical/conduit-conduit-fittings-raceways/conduit/ent-conduit/12008-upc/p-1444444956032-c-6423.htm?tid=-7193055694956213127&ipos=19
 * Bread Boards - https://www.amazon.com/gp/product/B07DL13RZH/ref=ppx_yo_dt_b_asin_title_o06_s01?ie=UTF8&psc=1
 * Buck Converters - https://www.amazon.com/gp/product/B08977C9YM/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1
-* Cozy Coupe Car (The DIY version is already white)
+* Cozy Coupe Car - (There are several versions available; make sure to purchase the one that is linked if you want the decals to fit)
+* Extra Cozy Coupe Floor Panel - (Only needed if your child can't yet reach the ground and will be using the one that comes with the Cozy Coupe Car)
 * Electrical Tape
-* Lights X2 - https://www.amazon.com/gp/product/B094QJ3S38/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
+* Lights x2 - https://www.amazon.com/gp/product/B094QJ3S38/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1
 * Metal Clamps
 * Project Box - https://www.amazon.com/gp/product/B06XSQZ5M6/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
 * Rechargable Battery Pack - https://www.amazon.com/gp/product/B01M7Z9Z1N/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1
@@ -80,10 +81,10 @@ Knowledge of reading wiring diagrams and circuit building. Access to a computer 
 
 * Test all the wiring and electronics before installing them on the Ecto-1 to prevent any unnecessary paint scratches.
 * Drill all the switch holes.
-* Assemble and test fit the roof rack (before painting.)
+* Assemble and test fit the roof rack (before painting).
 * Bend the electrical conduit and do a test fit. (Use a heat gun or hair dryer to bend it to fit the contour of the car.)
 * To prep for painting, scuff all smooth surfaces with high grit sandpaper and wash the parts clean to remove all dust and oils.
-* Paint all parts in a well ventilated area. Several light coats are required, and make sure to let all parts dry before applying the next coat.
+* Paint all parts in a well-ventilated area. Several light coats are required; make sure to let all parts dry before applying the next coat.
   * I found that the spray paint didn't work well for the body of the car and the door. I painted all of it again in 3 coats of acrylic paint to make sure it was durable. (Pro-Tip: Use a large brush.) Then I went over it all with 2 clear coats.
 * After painting, run all the wires and install the roof rack.
 * Test all the wiring and electronics.
@@ -93,7 +94,7 @@ Knowledge of reading wiring diagrams and circuit building. Access to a computer 
 ## Disclaimer
 This guide is meant for informational purposes only.
 
-NOT ATTEMPT ANY WIRING OF ANY KIND if you lack the knowledge and understanding required. This can result in damage to parts or equipment and injury.
+DO NOT ATTEMPT ANY WIRING OF ANY KIND if you lack the knowledge and understanding required. This can result in damage to parts or equipment and injury.
 
 ALWAYS READ AND FOLLOW INSTRUCTION MANUALS AND SAFETY WARNINGS PERTAINING TO PROJECTS, TOOLS AND EQUIPMENT.
 
